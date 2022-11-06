@@ -1,2 +1,2 @@
 # first-milestone
-this is my first project. 
+this is a project for different learning purposes.
